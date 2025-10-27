@@ -1,0 +1,23 @@
+************* Module inventory_system
+inventory_system.py:15:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:33:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:37:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:42:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:46:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:131:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:163:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:166:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:171:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:176:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:179:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:184:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:188:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:191:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:193:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:198:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system.py:203:0: C0304: Final newline missing (missing-final-newline)
+inventory_system.py:51:15: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 8.18/10 (previous run: 8.18/10, +0.00)
+
